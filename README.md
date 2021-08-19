@@ -24,4 +24,4 @@ Here, we follow a ML approach by predicting the imbalance energy price directly 
 
 The repository contains a python script for training and prediction and a jupyter notebook for data exploration.
 While the model used here is a random forest, the script can be run with any regressor or classifier provided by sklearn 
-and it can be effortlessly adapted to neural networks.
+and it can effortlessly be adapted to neural networks.
